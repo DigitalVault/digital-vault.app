@@ -1,2 +1,2 @@
 # digitalvault.app
-Sources for the digitalvault.app website, statically generated with Hugo
+Sources for the https://digital-vault.app website, statically generated with Hugo
